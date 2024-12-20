@@ -57,7 +57,8 @@ class PuppeteerManager {
     if (!puppeteer) {
       throw new Error(`Unable to require 'puppeteer' for script, have you run 'npm i puppeteer'?`);
     }
-
+    // For CEF Client
+    
     // /** @type {import('puppeteer').PuppeteerLaunchOptions} */
     // const args = {
     //   ...(this._options.puppeteerLaunchOptions || {}),
