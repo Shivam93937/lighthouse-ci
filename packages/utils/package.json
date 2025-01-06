@@ -15,8 +15,5 @@
     "js-yaml": "^3.13.1",
     "lighthouse": "git+https://github.com/Shivam93937/lighthouse.git",
     "tree-kill": "^1.2.1"
-  },
-  "scripts": {
-    "prepare": "npm install && npm build"
   }
 }
