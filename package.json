@@ -1,6 +1,4 @@
 {
-  "name": "@lhci/cli",
-  "version": "0.9.0",
   "private": true,
   "workspaces": [
     "packages/*"
